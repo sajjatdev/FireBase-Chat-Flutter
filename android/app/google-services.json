@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "836613616000",
+    "project_id": "firechat-f4f60",
+    "storage_bucket": "firechat-f4f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836613616000:android:b6385d6a4a796fc5fa9165",
+        "android_client_info": {
+          "package_name": "com.querypeople.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836613616000-g5ukabi31rp4cuonjdfe2vth8qcl3o2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJRfA8k7jfqalcA_39uXH3l5b1E5fZjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836613616000-g5ukabi31rp4cuonjdfe2vth8qcl3o2k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836613616000-j8f9hn37s6u39jka1pjegpprkquj52rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.querypeople.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
